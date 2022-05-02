@@ -22,7 +22,7 @@ make
 make run
 ```
 
-Após o teste poderá ser feita a limpeza dos arquivos com o comando 
+Após o teste, a limpeza dos arquivos poderá ser feita pelo comando 
 `make clean`.
 
 Abaixo o exemplo de testes:
