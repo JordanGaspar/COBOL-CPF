@@ -1,5 +1,5 @@
 # COBOL-CPF
-Validador de cpf escrito em COBOL
+Validador de CPF escrito em COBOL
 ## Como usar?
 
 O uso é bastante simplificado. O texto a ser 
@@ -44,3 +44,5 @@ Abaixo o exemplo de testes:
            DISPLAY CPF-STATUS.
            STOP RUN.
 ```
+
+O código foi testado usando o GnuCOBOL.
